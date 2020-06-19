@@ -1,0 +1,11 @@
+C:\Users\Moh\source\repos\ProcessSceduler\ProcessSceduler\bin\Debug\ProcessSceduler.exe.config
+C:\Users\Moh\source\repos\ProcessSceduler\ProcessSceduler\bin\Debug\ProcessSceduler.exe
+C:\Users\Moh\source\repos\ProcessSceduler\ProcessSceduler\bin\Debug\ProcessSceduler.pdb
+C:\Users\Moh\source\repos\ProcessSceduler\ProcessSceduler\obj\Debug\ProcessSceduler.csprojResolveAssemblyReference.cache
+C:\Users\Moh\source\repos\ProcessSceduler\ProcessSceduler\obj\Debug\ProcessSceduler.Form1.resources
+C:\Users\Moh\source\repos\ProcessSceduler\ProcessSceduler\obj\Debug\ProcessSceduler.Properties.Resources.resources
+C:\Users\Moh\source\repos\ProcessSceduler\ProcessSceduler\obj\Debug\ProcessSceduler.csproj.GenerateResource.cache
+C:\Users\Moh\source\repos\ProcessSceduler\ProcessSceduler\obj\Debug\ProcessSceduler.csproj.CoreCompileInputs.cache
+C:\Users\Moh\source\repos\ProcessSceduler\ProcessSceduler\obj\Debug\ProcessSceduler.exe
+C:\Users\Moh\source\repos\ProcessSceduler\ProcessSceduler\obj\Debug\ProcessSceduler.pdb
+C:\Users\Moh\source\repos\ProcessSceduler\ProcessSceduler\obj\Debug\ProcessSceduler.Form2.resources
