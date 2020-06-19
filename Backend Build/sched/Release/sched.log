@@ -1,0 +1,27 @@
+﻿  sched.cpp
+c:\users\moh\source\repos\sched\sched\sched.cpp(43): warning C4018: '<=': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(72): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\moh\source\repos\sched\sched\sched.cpp(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\moh\source\repos\sched\sched\sched.cpp(82): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\moh\source\repos\sched\sched\sched.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(201): warning C4018: '<': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(290): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\moh\source\repos\sched\sched\sched.cpp(332): warning C4018: '<': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(344): warning C4018: '<': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(364): warning C4018: '<': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(431): warning C4018: '<': signed/unsigned mismatch
+c:\users\moh\source\repos\sched\sched\sched.cpp(451): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+c:\users\moh\source\repos\sched\sched\sched.cpp(339): warning C4715: 'next_arrivaltime': not all control paths return a value
+c:\users\moh\source\repos\sched\sched\sched.cpp(233): warning C4715: 'return_addr': not all control paths return a value
+c:\users\moh\source\repos\sched\sched\sched.cpp(214): warning C4715: 'find_in_deq': not all control paths return a value
+  All 462 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sched.vcxproj -> C:\Users\Moh\source\repos\sched\Release\sched.exe
