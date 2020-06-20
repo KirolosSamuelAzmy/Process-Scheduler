@@ -19,11 +19,11 @@
 3. Then , Add process by typing their Arrival time and their burst time (the application supports input error handling), and also the priority of each process if the user chooses the priority based scheduler (You will not be able to go further if you choose priority scheduler and dont add the priority of each process).
 4. In every scheduler , There are pre-loaded examples that supports both fractional inputs or gap .
 5. In order to simulate the processes , You should click in (Commence Scheduling Procedure).
-
+6. The Output should be visualize in 2 charts , The below one is by Bar Chart.
 ![FCFS GAP SOL2](https://user-images.githubusercontent.com/66043730/85196892-a987fe80-b2dd-11ea-858b-5a7ea4dca6e1.PNG)
-
-6. The Output should be visualize in 2 charts , The above one is by Bar Chart.
-
+7. And this by Gantt Chart.
 ![FCFS GAP SOL](https://user-images.githubusercontent.com/66043730/85196889-a856d180-b2dd-11ea-82e5-972e1cf93a43.PNG)
 
-7. And this by Gantt Chart.
+
+# Notes:
+* You can start another scheduling withought closing the current simulation
